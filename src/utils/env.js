@@ -1,0 +1,1 @@
+export const serverUrl = 'localhost:9688/eyetouch-seentao-be'
