@@ -2,5 +2,5 @@
 
 #### 目录结构说明
 
-![http://cdn.fengblog.xyz/state.png]()
+![](http://cdn.fengblog.xyz/state.png)
 
